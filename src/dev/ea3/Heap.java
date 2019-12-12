@@ -72,6 +72,13 @@ public class Heap {
         System.out.println();
     }
 
+    public int peak(){
+        if(isEmpty()){
+            throw new IndexOutOfBoundsException("Heap is Empty");
+        }
+        return heap[0];
+    }
+
     private void fixHeapBelow(int index,  int lastHeapIndex){
         int childToSwap;
 

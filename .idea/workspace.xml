@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1aa4dc68-3165-43ab-9129-bda0e471959b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/dev/ea3/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dev/ea3/Heap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MaxHeaps/dev/ea3/Heap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MaxHeaps/dev/ea3/Heap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MaxHeaps/dev/ea3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MaxHeaps/dev/ea3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dev/ea3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dev/ea3/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +96,22 @@
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
     <state x="884" y="123" width="696" height="794" key="DiffContextDialog/49.23.1631.1027@49.23.1631.1027" timestamp="1576029704161" />
+    <state width="790" height="268" key="GridCell.Tab.0.bottom" timestamp="1576132567611">
+      <screen x="49" y="23" width="1631" height="1027" />
+    </state>
+    <state width="790" height="268" key="GridCell.Tab.0.bottom/49.23.1631.1027@49.23.1631.1027" timestamp="1576132567611" />
+    <state width="790" height="268" key="GridCell.Tab.0.center" timestamp="1576132567610">
+      <screen x="49" y="23" width="1631" height="1027" />
+    </state>
+    <state width="790" height="268" key="GridCell.Tab.0.center/49.23.1631.1027@49.23.1631.1027" timestamp="1576132567610" />
+    <state width="790" height="268" key="GridCell.Tab.0.left" timestamp="1576132567610">
+      <screen x="49" y="23" width="1631" height="1027" />
+    </state>
+    <state width="790" height="268" key="GridCell.Tab.0.left/49.23.1631.1027@49.23.1631.1027" timestamp="1576132567610" />
+    <state width="790" height="268" key="GridCell.Tab.0.right" timestamp="1576132567611">
+      <screen x="49" y="23" width="1631" height="1027" />
+    </state>
+    <state width="790" height="268" key="GridCell.Tab.0.right/49.23.1631.1027@49.23.1631.1027" timestamp="1576132567611" />
     <state x="1015" y="444" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576029333809">
       <screen x="49" y="23" width="1631" height="1027" />
     </state>
