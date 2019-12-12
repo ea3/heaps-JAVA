@@ -53,7 +53,23 @@ public class Heap {
 
         heap[index] = heap[size - 1];
 
+        if(index == 0 || heap[index] < heap[parent]){
+            fixHeapBelow(index, size - 1);
+        }else{
+            fixHeapAbove(index);
+        }
+        size--;
 
+        return deletedValue;
+
+    }
+
+    public void printHeap(){
+        for(int i = 0; i < size; i++){
+            System.out.print(heap[i]);
+            System.out.print(", ");
+        }
+        System.out.println();
     }
 
     private void fixHeapBelow(int index,  int lastHeapIndex){
